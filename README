@@ -1,0 +1,12 @@
+chat server and client over a simple protocol
+
+commands:
+	
+	QUERY <user_name>
+	will return us the ip direction of the user
+
+	<user_name>: <message>
+	we send the 'message' to the user
+
+	QUIT
+	closing the connection
